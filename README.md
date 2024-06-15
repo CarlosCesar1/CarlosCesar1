@@ -8,7 +8,7 @@
   src="https://github-readme-stats.vercel.app/api?username=carloscesar1&show_icons=true&theme=transparent"
   />   
   <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Magalhaes&layout=compact&langs_count=7&theme=transparent&locale=pt-br"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscesar1&layout=compact&langs_count=7&theme=transparent&locale=pt-br"
   />
   
 </div
@@ -19,14 +19,13 @@
 <div align="center">
   
   <div style="display: inline_block"><br>    
-    <img align="center" alt="Sofia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Sofia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>   
-    <img align="center" alt="Sofia-Tp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-    <img align="center" alt="Sofia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>    
-    <img align="center" alt="Sofia-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>     <img align="center" alt="Sofia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="Sofia-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
-    <img align="center" alt="Sofia-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
-    <img align="center" alt="Sofia-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>   
+    <img align="center" alt="carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>    
+    <img align="center" alt="carlos-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+    <img align="center" alt="carlos-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="center" alt="carlos-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"/>
+   
   </div>
 
   
