@@ -1,9 +1,9 @@
 ## Olá! 👋 carlos césar aqui, tudo bem?
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D52D00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Sofia+Magalhaes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D71212&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+carlos+cesar;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Sofia-Magalhaes">
+  <a href="https://github.com/carloscesar1">
   <img height="180em"
   src="https://github-readme-stats.vercel.app/api?username=carloscesar1&show_icons=true&theme=transparent"
   />   
